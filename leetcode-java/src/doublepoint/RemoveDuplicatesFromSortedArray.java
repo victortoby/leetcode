@@ -1,6 +1,6 @@
 /* Copyright 2020 Beijing Calorie Information Technology Co. Ltd. */
 /* 版权所有 2020 北京卡路里信息技术有限公司 */
-package doublepoint.java;
+package doublepoint;
 
 /**
  * RemoveDuplicatesFromSortedArray
