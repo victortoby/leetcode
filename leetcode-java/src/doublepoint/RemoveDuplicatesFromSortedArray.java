@@ -77,6 +77,9 @@ public class RemoveDuplicatesFromSortedArray {
 
     public static void main(String[] args) {
         RemoveDuplicatesFromSortedArray instance = new RemoveDuplicatesFromSortedArray();
-        instance.removeDuplicates(instance.nums);
+        int length = instance.removeDuplicates(instance.nums);
+        for (int i = 0; i< length; i++) {
+            System.out.println(instance.nums[i]);
+        }
     }
 }
